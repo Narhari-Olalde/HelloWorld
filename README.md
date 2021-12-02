@@ -21,7 +21,7 @@
 | Paragraph | Text |
 
 
-```
+```c++
 {
   "firstName": "Narhari",
   "lastName": "Olalde",
